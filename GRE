@@ -1,0 +1,59 @@
+#EXTIM3U
+
+
+#EXTINF:-1 , CAZAVISION
+http://photocall.tv/uE3a/l1?ch=caz_es
+
+#EXTINF:-1 , LA 1
+http://photocall.tv/uE3a/tve?ch=la1
+
+#EXTINF:-1 , LA 2
+http://photocall.tv/uE3a/tve?ch=la2
+
+#EXTINF:-1 , ANTENA 3
+http://photocall.tv/uE3a/a3?ch=antena3
+
+#EXTINF:-1 , CUATRO
+http://photocall.tv/uE3a/mt?ch=cuatro
+
+#EXTINF:-1 , TELECINCO
+http://photocall.tv/uE3a/mt?ch=telecinc
+
+#EXTINF:-1 , BLA 6
+http://photocall.tv/uE3a/a3?ch=lasexta
+
+#EXTINF:-1 , CANAL 24
+http://photocall.tv/uE3a/l1?ch=24h
+
+#EXTINF:-1 , CANAL TDP
+http://photocall.tv/uE3a/l1?ch=tdp
+
+#EXTINF:-1 , CLAN
+http://photocall.tv/uE3a/l1?ch=clan
+
+#EXTNF:-1 , BOING
+http://photocall.tv/uE3a/mt?ch=boing
+
+#EXTINF:-1 , NEOX
+http://photocall.tv/uE3a/a3?ch=neox
+
+#EXTINF:-1 , NOVA
+http://photocall.tv/uE3a/a3?ch=nova
+
+#EXTINF:-1 , MEGA
+http://photocall.tv/uE3a/a3?ch=mega
+
+#EXTINF:-1 ,A3S
+https://www.atresplayer.com/directos/atreseries/
+
+#EXTINF:-1 , CANAL F
+http://photocall.tv/uE3a/mt?ch=fdf
+
+#EXTINF:-1 , CANAL E.
+http://photocall.tv/uE3a/mt?ch=energy
+
+#EXTINF:-1 , BEMAD
+http://photocall.tv/uE3a/mt?ch=bemad
+
+#EXTINF:-1 , DIVINITY
+http://photocall.tv/uE3a/mt?ch=divinity
